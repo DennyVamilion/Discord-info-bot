@@ -52,5 +52,5 @@ class MyClient(discord.Client):
 
 
 client = MyClient()
-client.run('ODM3MjU4NDgzMDk4ODQ1MjY2.YIp7uQ.54fmJsVBdfSgHiqhDsZpJJFxeg8')
+client.run('')#put ur client id in here
         
